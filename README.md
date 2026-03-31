@@ -10,7 +10,10 @@ Saya adalah seorang **Multimedia & Graphic Designer** yang berfokus pada pencipt
 ### ⚡ Fun Facts
 - ✨ Suka mencoba hal baru walaupun belum jago karena gampang bosanan.
 - 🖼️ Lebih nyaman nunjukin karya daripada banyak ngomong.
-- ⏳ Perfeksionis… tapi sering juga *deadline mode* 😅
+- ⏳ Perfeksionis… tapi sering juga *deadline mode*
+
+### 📝 Quotes
+"Still learning, Still growing, Still creating. Because creativity is not talent, it's consistency in trying
 
 ### 🛠 Tech Stack & Skills
 - **Design Tools:** Adobe Photoshop, Adobe Illustrator, Canva, Figma
