@@ -23,9 +23,4 @@ Saya adalah seorang **Multimedia & Graphic Designer** yang berfokus pada pencipt
 Kamu bisa melihat karya-karya terbaik saya di sini:
 👉 **[Evi Sang Fitri Portfolio](https://evisangfitri.wixsite.com/my-site-5)**
 
-### 📊 GitHub Stats
-![Stats GitHub Kamu](https://github-readme-stats.vercel.app/api?username=viekook&show_icons=true&theme=radical)
-
----
-
 > *"Still learning, still growing, still creating. Because creativity is not talent, it’s consistency in trying."* ✍️
