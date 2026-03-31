@@ -12,7 +12,11 @@ Saya adalah seorang **Multimedia & Graphic Designer** yang berfokus pada pencipt
 - 🖼️ Lebih nyaman nunjukin karya daripada banyak ngomong.
 - ⏳ Perfeksionis… tapi sering juga *deadline mode*
 
-https://canva.link/xa1oo5dvpm5d4ya
+
+
+https://github.com/user-attachments/assets/845de2d9-40eb-4af9-aec6-486655ecdef2
+
+
 
 ### 🛠 Tech Stack & Skills
 - **Design Tools:** Adobe Photoshop, Adobe Illustrator, Canva, Figma
