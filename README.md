@@ -12,6 +12,7 @@ Saya adalah seorang **Multimedia & Graphic Designer** yang berfokus pada pencipt
 - 🖼️ Lebih nyaman nunjukin karya daripada banyak ngomong.
 - ⏳ Perfeksionis… tapi sering juga *deadline mode*
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4fb3bb25-2ae6-412e-908a-7136a808a224" />
 
 
 ### 🛠 Tech Stack & Skills
